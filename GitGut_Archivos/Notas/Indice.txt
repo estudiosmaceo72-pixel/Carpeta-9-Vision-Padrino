@@ -1,0 +1,12 @@
+Indice de GitGut 
+Codigo_001.py = Primera versi¢n guardada autom ticamente del bot (intento de escribir texto en cuadro de publicaci¢n) 
+Foto_001.png = Captura del cuadro de publicaci¢n abierto en Facebook 
+Foto_001.png = Primera prueba de guardado autom tico de foto en GitGut 
+Codigo_002.py = Intento de escritura con selectores m£ltiples (role, get_by_role, aria-label) 
+Codigo_004.py = Versi¢n con clic en 'Siguiente' despu‚s de escribir texto 
+Codigo_005.py = Versi¢n corregida de indentaci¢n con clic en 'Siguiente' 
+Codigo_006.py = Versi¢n con selector directo al bot¢n '¨Qu‚ est s pensando?' 
+Codigo_007.py = Versi¢n con clic en 'Publicar' 
+Codigo_009.py = Versi¢n con adjuntar imagen en la publicaci¢n 
+Codigo_010.py = Flujo completo con foto, siguiente, popup WhatsApp y publicar 
+Codigo_011.py = Versi¢n con selector doble para bot¢n 'Publicar' 
